@@ -27,3 +27,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Local docs / exports
+RGD_3papers_chatbot_QA.xlsx
+exQnA.docx
+rag q&a.docx
+
