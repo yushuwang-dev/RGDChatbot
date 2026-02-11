@@ -1,0 +1,222 @@
+like to thank the organizers for 
+giving me the opportunity to um
+there we go giving me the opportunity 
+to share with you a little bit about  
+rgd's data and tools for translational research in  
+otitis media and I would like to mention 
+that I do not have any disclosures
+I think you have to sit it all right I I I don't 
+care either way yeah we can do it here because I  
+guess you have to okay now we have appetite 
+yes okay and I'm hoping that this will work
+yeah and make me do it differently 
+than I do in my rehearsals
+okay um rgd is a multi-species resource for 
+translational research and comparative genomics  
+we house data for 10 mammalian species including 
+human and chinchilla and just for those who use  
+mouse and rat mouse and rat um we integrate 
+data derived from expert literature curation  
+with data imported from other sources we provide 
+an extensive and well-rounded Corpus of genetic  
+genomic disease and physiological data and 
+we provide Innovative tools for data analysis
+um our data and tools are accessible from the 
+menu bar at the top of of most of the rgd pages  
+data can also be accessed using the general search 
+box or these targeted searches our tools can be  
+accessed using the analysis and visualization 
+links on the front page and the species icon  
+link that are showed on the front page linked 
+to informational landing pages for each species  
+our species portals provide easy access to 
+species-oriented information data and tools for  
+instance this is the page for the human species 
+the layout is essentially the same for all of  
+the species portals although depending on the data 
+and tools available for each there are differences  
+so this is the uh the top of the page for 
+chinchilla the top of the page gives information  
+about chinchilla in this case and other species 
+that are used as models of human disease  
+below that there is uh information and links 
+to chinchilla data to rgd tools with chinchilla  
+already chosen as the the species to links to 
+genome and Gene resources at rgd ncbi and ensemble  
+and all of these links are also 
+available in the right sidebar along with  
+links to chinchilla Research 
+Laboratories and selected Publications
+hello there we go um
+wait
+okay
+so I don't have time to go through everything 
+that's shown on this page but I would like to  
+highlight a couple of things and the first thing 
+that I would like to highlight is the chinchilla  
+phenominer phenominer is a data mining tool 
+for quantitative phenotype measurement data  
+for both rat and chinchilla the data in 
+phenominer is a combination of curated data  
+and direct submissions from researchers 
+when you first access the the page you I
+sorry got myself got myself in advance  
+um yes the link for the chinchilla portal 
+directly accesses the chinchilla FEMA Miner
+in the phenominer selecting terms in the bottom 
+section adds them to the corresponding bins in  
+the top section data can be chosen on the 
+basis of any or all of four criteria the  
+source of the chinchilla clinical measurements 
+measurement methods and experimental conditions  
+once selections have been made click 
+generate report to view the associated data  
+on the results page there are three sections a 
+graph a table and filters in the left sidebar all  
+three of these work together so that filters 
+that are selected on the left will remove  
+bars from the graph and rows from the table and 
+sorting the table reorders the bars in the graph  
+colored by functionality gives you 
+options for coloring the bars on the graph  
+and here the table is sorted by condition 
+and colored by the sex of the animals  
+options are given to download all of the records 
+that match your original search criteria or just  
+a filtered set if filters have been applied 
+so Switching gears a little bit rgd's General  
+search searches across data types and across 
+species so a search of otitis media will return  
+genes in each of the species human variants 
+from ncbi's clinvar database and links to  
+vocabularies that rgd uses for functional 
+annotations including the disease ontology
+so if you click that link to the 
+disease ontology you access a page  
+that shows the 32 disease ontology 
+terms that match the search criteria  
+otitis media rgd uses ontologies for data 
+standardization and ontology is a structured  
+vocabulary which is often shown as an upside 
+down tree structure with fewer more general  
+terms toward the top and larger numbers of 
+more specific terms as you move down the tree
+the leaf icon on the search result page takes 
+you to rgd's ontology browser which gives you  
+easy functionality to go up the tree to the more 
+uh general terms and down the tree to the more  
+specific terms the a icon in the search results 
+links to rgd's ontology report this is the top of  
+the page for the ontology report for otitis media 
+you'll see that it has information about the term  
+including a definition a number of synonyms and 
+links to related terms in other vocabularies  
+and related information in other databases such 
+as online mendelian inheritance in man or omen  
+where possible a genome level view of the genes 
+annotated to the term is shown for human rgd has  
+annotations to otitis media for both genes 
+and clinical variants as shown in this View  
+for chinchilla most of the gene annotations are 
+derived from orthologous genes in other species  
+as indicated by this ISO or inferred 
+from sequence orthology evidence code  
+but rgd curators have reviewed the literature 
+and made experimental annotations directly to  
+chinchilla genes wherever possible rgd's 
+disease portals provide Consolidated views  
+of data related to 15 disease categories 
+they're accessible from this diseases tab  
+in the in the top menu bar if you click that 
+it takes you to this disease portals landing  
+page that shows you all 15 of the portals and 
+I will use sensory organ disease as my example
+when you access the portal the 
+first thing that you can do is  
+select a data type here disease is 
+the one that is selected that's the  
+default and you can also choose 
+a species and I've chosen human
+disease portals start with the most general 
+term in the category in this case sensory  
+system disease but you can use the embedded 
+ontology browser to browse down the tree to  
+get more specific disease terms the the portal 
+leverages the structure of the ontology to show  
+all of the objects in this case all of the genes 
+annotated to the term and all of its children  
+as selections are made this list 
+of genes is updated on the Fly
+for human the genome-wide view of Gene positions 
+is shown there is an an embedded copy of the  
+multi-ontology enrichment tool which I'll talk 
+about in just a minute and links to additional  
+information are provided at the bottom of the 
+page and this same functionality is available  
+for all species so if I go back up to the top 
+and choose chinchilla when chinchilla is shown  
+this the uh the list of genes that's shown is 
+all of the genes in chinchilla annotated to  
+otitis media or any of its more specific children  
+if a an ontology is selected in the gene set 
+enrichment section of the page as I've selected  
+the pathway ontology here the list of genes is 
+automatically submitted to the embedded moment  
+tool for enrichment analysis in the results the 
+table shows the list of enriched terms in the  
+pathway ontology the number of genes in the in the 
+list of genes that was that are annotated to each  
+of those terms the uncorrected and bonferoni 
+corrected p-values and um odd odds ratio for  
+each term not surprisingly the most enriched 
+terms for the pathway ontology for that list of  
+otitis media genes is uh our our terms related 
+to interleukin signaling and immune pathways
+and the uh the graph shows the number of genes 
+in blue and the p-value for each term in Orange
+each gene in the in the list of genes in the 
+disease portal links to its respective Gene  
+report page so if I click this mucin 5B Gene 
+symbol it will take me to the chinchilla Gene  
+report page for mucin 5B which in turn links to 
+that Gene's position in the jbrowse genome browser  
+rgd has loaded genes from ncbi and Ensemble and 
+rna-seq Bam alignments and coverage tracks from  
+two projects uninfected and infected middle ear 
+mucosa from the Medical College of Wisconsin and  
+four tissues 14 tissues from samples provided 
+by Dr Lauren bakaletz's group at the research  
+institute at Nationwide Children's Hospital 
+the first set shows that mucin 5B increases  
+in expression from uninfected through days 3 
+and 17 of strep infection the second set shows  
+uh tissue specific expression for mucin 5B as 
+shown here and this show this display shows the  
+BAM alignments for two exons of mucin 5B from 
+one of the uninfected middle ear mucosa samples  
+so in conclusion this brief overview has only 
+given you a small subset of the rich set of  
+data data and tools that rgd provides for both 
+clinical and translational researchers if you have  
+questions or are interested in more information 
+I'm available and I have some contact information  
+here but I would like to to um to say that we have 
+a couple of questions for the research community  
+um the chinchilla genome is only assembled to 
+the point of scaffolds as you can see here in  
+The The J browse chromosome drop down um which 
+is sufficient for some applications but for True  
+comparative genomics or phylogeny or that sort 
+of thing chromosome level assembly really would  
+be required and so our questions are is there 
+interest in improving the chinchilla genome  
+assembly and if so would groups be willing 
+to do additional genome sequencing to support  
+chromosome level assembly and with that I would 
+like to say thank you um I'd like to acknowledge  
+the incredible rgd team and our funders and the 
+researchers who contribute data and Faithfully  
+use our website and data and especially Dr 
+kirschner and Dr Hong here at the Medical College  
+Who provided quantitative phenotype and rna-seq 
+data and Dr bakelitz Who provided rna-seq data

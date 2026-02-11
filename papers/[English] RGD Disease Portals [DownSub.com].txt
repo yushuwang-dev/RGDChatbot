@@ -1,0 +1,154 @@
+The Rat Genome Database or RGD at rgd.mcw.edu
+has numerous tools and resources for investigators 
+using rats and other mammals as animal models in  
+their research. One such resource is the disease 
+portal which can be found under the tab marked  
+diseases on the home page and as a panel 
+in the analysis and visualization section.  
+The 15 portals are designed as entry points for 
+researchers studying human disease to access  
+data and tools in their area of interest. For this 
+tutorial we will be working in the cardiovascular  
+disease portal using hypertension as our 
+example. For each portal the default view is  
+of the disease section of the portal. However any 
+one of the other eight ontologies can be selected.  
+For the non-disease ontologies the terms 
+are assigned to the portal because of their  
+association with the data object such as a 
+gene, QTL or strain that is also annotated to  
+the portal's disease category. In other words any 
+phenotype for instance goes through an object to  
+be associated with a portal. To give a specific 
+example the human phenotype term thrombocytosis  
+is in the cardiovascular disease portal 
+because 25 human genes including Hla-Dqa1  
+are annotated to both that term and one or more 
+cardiovascular disease such as hypertension,  
+rheumatic heart disease and dilated cardiomyopathy 
+1H. For clinical researchers studying disease in  
+humans and basic researchers interested 
+in non-rat models of human disease  
+RGD's disease portals provide data for nine 
+species in addition to rat including mouse, human,  
+chinchilla, bonobo, dog, 13 line ground squirrel, 
+pig, green monkey or vervet and naked mole rat.  
+Not all species have annotations for all nine 
+ontologies. The best studied and best annotated  
+are human, rat and mouse. Dog and pig have fewer 
+manually assigned experimental annotations  
+although they are highly studied. RGD's other 
+species are the models for studying specific  
+diseases but have for the most part not been 
+manually curated. For species where manual ontology  
+annotations are not available RGD assigns disease 
+pathway and gene ontology annotations on the basis  
+of the sequence similarity or more specifically 
+the orthology between genes. For instance a disease  
+annotation assigned to a rat gene on the basis 
+of experimental evidence will be also assigned to  
+the corresponding orthologous gene in chinchilla 
+because of the similarity between the two genes.  
+Such annotations based on orthology provide 
+pointers toward predicted gene disease  
+associations in less common model organisms. Below 
+the picture and name of the species in the portal  
+the number of genes, QTLs and strains annotated 
+to the selected term and any child terms in  
+the chosen ontology are displayed. In this case 
+there are 3952 genes, 704 QTLs and 174 strains  
+that have been associated with cardiovascular 
+disease and rat. Moving to the ontology browser  
+researchers can view and navigate between 
+terms associated with their selected ontology.  
+Searches can be made as specific or as general 
+as desired. The selected term shown with its  
+definition is in the center box with its more 
+general parent terms in the far left box labeled  
+parent terms and the more specific terms below it 
+in the vocabulary in the box to the right labeled  
+child terms. Hypertension is located under the 
+parent terms vascular disease and artery disease.  
+Moving up or down you can see the number of 
+genes, QTLs and strains changes in relation  
+to the selected ontology changes to 
+match the parameters of the search.  
+In this case there are 922 genes, 542 QTLs and 
+110 strains annotated to the term hypertension  
+or one of its more specific child terms such as 
+essential hypertension. Below the ontology browser  
+are the lists of genes, QTLs and strains associated 
+with the term selected in the ontology browser.  
+Clicking on any of these brings up a detailed and 
+in-depth page dedicated to that specific topic. For  
+genes such as ABCC8 the page will display items 
+such as a brief summary of what is known about the  
+gene, terms in any or all of the five ontologies 
+annotated to the gene, the genomics, details on  
+expression and sequence and links to curated and 
+related references in PubMed. For more information  
+on how to navigate the gene report page there is 
+a specific video tutorial that can be found here.
+Back in the disease portal the genome view 
+will appear indicating where on the species'  
+chromosomes the retrieved genes in brown, 
+QTLs in blue and strains in green are mapped.  
+Clicking on a location in a chromosome brings 
+up a close-up view of that specific region in  
+its genomic context. The detail window itself 
+can be dragged across the entire length of  
+the chromosome and can be fixed into position by 
+double-clicking the slider in the overview panel.  
+The zoom can be toggled using the zoom in and 
+zoom out buttons to obtain the desired view.  
+Clicking on any object in the horizontal display 
+will direct the user to the object's report page.
+Gene-set enrichment in the MOET tool is 
+also available to researchers for gene  
+annotations to seven different ontology tabs. The 
+gene list from above is automatically submitted  
+to the embedded tool for analysis. Given this gene 
+list MOET returns significantly over-represented  
+ontology terms using a hypergeometric test and 
+provides nominal and Bonferroni-corrected p-values  
+and odds ratios for the over-represented terms. For 
+each term the number of genes in the list being  
+analyzed is provided with a link to that subset of 
+the gene list. The reference genes column provides  
+the number of genes in the reference gene list 
+that are annotated to that term for comparison.  
+A graph also appears with disease terms 
+on the x-axis. The y-axis shows the number  
+of genes annotated to the term in blue 
+and the uncorrected p-value in orange.  
+For more information on the MOET tool please 
+see the video tutorial found at this link.
+Finally, additional resources can 
+be found at the bottom of the page.  
+Additional analysis tools for researchers at 
+RGD and elsewhere are provided with a brief  
+explanation of each. Clicking on the underlined 
+tool will take you to that tool's dedicated page.  
+There is also a curated list of rat strains that 
+have been annotated to cardiovascular disease.  
+For mutant strains, the mutated gene is listed 
+after the strain symbol, Control strains are shown  
+for the respective affected strains and links 
+to original research articles are provided for  
+researchers interested in more detail about 
+the use of each strain as a disease model.  
+All the strains listed below are curated with 
+a special set of qualifiers indicating a strain  
+is an established model of disease. The model 
+qualifier is used at RGD to indicate that the  
+strain has been used in multiple studies as a 
+model for the indicated disease or as a control  
+for such a model. There are also many helpful 
+links in the related links file including  
+animations detailing cardiovascular events such 
+as congestive heart failure and heart attacks.
+Clearly the disease portals found at rgd.mcw.edu
+are an effective tool for researchers to 
+find and analyze specific objects for rat  
+human and a number of other mammals 
+in their disease area of interest.

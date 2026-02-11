@@ -1,0 +1,468 @@
+foreign
+okay
+thank you I would like to thank the
+organizers
+um for allowing me to talk to you about
+the improvements that we've made to
+phenominer and to give you a little bit
+of a sneak preview for what's actually
+coming soon excuse me coming soon
+um I work for the rat genome database
+and we are the online resource for rat
+data
+um
+pretty much worldwide
+um so just to give you a brief
+introduction to rgd's phenominer
+um fetal Miner is a tool for
+ontology-based storage and Mining of
+quantitative phenotype data for the
+laboratory rat
+phenominer includes both data from high
+throughput phenotyping projects which
+come to us
+relatively standardized and scientific
+literature which comes to us completely
+unstandardized
+um so to allow comparisons across
+studies as well as flexible and
+intelligent querying phenominer uses
+ontologies to express what was measured
+in terms of the clinical measurement
+ontology how it was measured using the
+measurement methodontology under what
+conditions it was measured using the
+experimental condition ontology and in
+what animals it was measured using the
+rat strain ontology
+the vertebrate trait ontology is also
+used to group related measurements
+within a study and phenominer can be
+accessed through the phenotypes and
+models tab in the menu at the top of any
+rgd page or using the button on the
+rgd's homepage
+so thinking about some of the
+limitations of our first iteration of
+phenominer I started thinking about some
+of the comments that we have heard and
+some of the content comments that we
+have made ourselves about phenominer and
+they're things like the process for
+selecting records to view is not
+intuitive
+once I've selected terms it's hard to
+change my selections I can only view
+results for one measurement at a time
+even if I choose terms that use the same
+units
+what I can sort the results of that
+table
+oh but when I sort the table it doesn't
+change anything in the graph that still
+appears to be ordered randomly and
+coloring the bars in the graph by
+experimental condition is nice but I'd
+like to choose what they're colored by
+so to give you an a little bit of a of
+an idea of what I'm talking about this
+is the landing page of the original
+phenominer and it was designed to be
+flexible and and it is
+but you come into this and you look at
+it and maybe you don't quite know
+exactly what it is that you need to do
+so assuming that you figure it out you
+select an ontology
+and then you need to navigate through
+the tree which means that you kind of
+have to know what the ontology is
+and there is a search but it basically
+takes you to the tree and makes you
+navigate through the tree
+um and then once you've decided and
+found the terms and and chosen them then
+it takes you to another page which gives
+you further options of things to do and
+that basically makes it so that you're
+going back and forth between
+um the ontology tree selection pages and
+pages that ask you what you want to do
+next
+in contrast to that
+phenominer 2 2.0 uh in in that in this
+new iteration of the tool all of the
+components are on a single page
+so the The Strain ontology loads
+automatically when you first open it
+um
+but you can still start with any of the
+ontologies by using the on uh using the
+tabs in the lower right panel
+and as selections are made in the bottom
+panel
+then they appear in the boxes above
+so looking at the at those bottom panels
+the lower left panel has a prominent
+search box
+and then below that an alphabetical list
+of all of the terms from that ontology
+that have data in phenominer
+so you can scroll through the list of
+terms or you can you can enter a term in
+the search box once you enter a term in
+the search box
+um it Narrows the list below it to only
+those things that match that that search
+term
+and then you have
+this
+um these uh select buttons and if you
+choose a select button it puts the term
+into the top box and also opens that uh
+that region in the ontology tree in the
+bottom right panel to make it easier for
+you to refine the selection to add more
+terms and then also if if you choose to
+take terms away and if you do want to
+take terms away then you can easily do
+that by either
+[Music]
+um
+unchecking the Box in that lower panel
+or clicking the X beside that term in
+the top box to just remove that from the
+from the search
+okay there we go
+okay so
+um all of this as I mentioned all of the
+selections are made within the same
+screen and all of the changes and
+additions and and subtractions that you
+make are all shown in real time
+and you can switch back and forth
+between the ontologies using the tabs in
+the bottom right panel
+and at each step options are limited by
+the the selections that you've made so
+if you've chosen some rat strains the
+only options that you'll have for
+choosing clinical measurements will be
+one will be terms that have been used
+with those strains in phenominer so you
+don't end up going down a path and then
+ending up at the very end of it with no
+data
+so um the options are limited by your
+previous selections
+and as you go through
+you can choose
+terms from any or all of the ontologies
+that are listed if you choose not to
+make any selections for one of the
+ontologies so for instance if I choose
+rat strains and clinical measurements
+and and experimental conditions but I
+don't want to limit my options for ex
+for measurement method I don't have to
+make any choices for that and it will
+show me all of the results for any of
+the measurement methods that match the
+other Search terms that I've that I've
+used and so once you have your list of
+of filters that you want to use then you
+can just hit that generate report button
+and it will take you to
+the result page
+so the phenominer 2.0 result page
+consists of three parts a graph a list
+of filters and a table of results
+and you're looking at that and thinking
+ic2
+I only see a list of filters and a table
+and that's because if measurements if
+you if you choose measurements that use
+more than one unit
+so in this case I've chosen heart rate
+which would be beats per minute and
+several blood pressure terms which would
+be millimeters of mercury if you choose
+measurements that use more than one unit
+it hides the graph until you um use the
+filters on the left hand side
+to filter that down to measurements that
+only use a single unit
+so
+once once I do that in this case I've
+I've chosen to only show my my blood
+pressure measurements then the graph
+appears
+and the filters the graph and the table
+are all interconnected
+so things that you do in one will affect
+all of the rest of them
+uh you can use you can select filters on
+the left to limit what's shown in the
+graph in the table
+selected filters are also shown above
+the the graph as well as in the list to
+the left
+and you can remove filters by either
+unchecking the boxes on the left or by
+clicking the X
+um for that filter in the at the top of
+the page
+and
+I can choose I can choose anyone or or
+more of the filters and the one on here
+on the on the uh on the left is you can
+remove all of the filters at once and it
+will take you back to your initial
+search
+results
+so if I remove the the measurements for
+mean arterial blood pressure
+then it just shows that the bars that
+correspond to systolic blood pressure
+and diastolic blood pressure
+so one of the things that was requested
+was the ability to change uh the
+coloring in the graph and so phenominer
+2.0 is more interactive and it does
+include a color by function the default
+is for it to be colored by experimental
+conditions
+but you can change that and and have it
+colored by strain or phenotype method or
+uh the sex of the animals
+so if I change this particular graph and
+color it by phenotype then I get this
+graph where I've got just the um
+I have just two colors and there's a
+drop down legend that tells me that the
+yellow bars are diastolic blood pressure
+and the purple bars are systolic blood
+pressure
+so the the tool also allows you to sort
+the table and sorting the table reorders
+the bars in the graph
+and then you can use that kind of
+functionality so for instance using the
+color by phenotype and sort by value in
+this case and it's easy to see the at a
+glance the mix of diastolic and systolic
+blood pressure values so one might have
+thought naively that all of the
+diastolic blood pressure values would
+all be on one side and all the systolic
+ones would be on the other side but here
+it's easy to see that some of the
+systolic blood pressure values are
+actually lower than most of the
+diastolic blood pressure values and some
+of the diastolic blood pressure values
+are actually higher than a number of the
+systolic blood pressure values
+foreign
+so if I if I go back to a graph that's
+actually looking at mean arterial blood
+pressure where data for individual rats
+has been submitted to us the graph shows
+not only the average but also the
+individual values
+that have been submitted so looking at
+this graph for mean arterial blood
+pressure you can see that some of the
+bars include red dots that indicate the
+values for individual animals so you get
+to see not only the average or the mean
+you also get to see the distribution of
+the values that went into making that
+mean
+so you can Mouse over the the bar and it
+will bring up
+um a pop-up with details about the
+average value for that sample of rats
+under those conditions
+and you can Mouse over any of those dots
+to see the details for that individual
+rat measurement
+so those values are also
+um you're also able to view those values
+in the table if if a row of the table
+has uh individual values it will show
+the average value and also an option in
+the last column to view the individual
+values so if you click the view values
+in that last column it shows you the
+list of uh individual animal IDs and the
+the individual measurement values that
+go with each of those
+at present
+um we the way the table is set up you
+can't download all of the individual
+values but that's high on our list of
+things to do to be able to not only see
+not only download not only see on the on
+the website but also to be able to
+download not only averages but also the
+individual values so that you have the
+raw data that went into
+um making those making those values
+um
+so
+all that to say that data from the query
+can be downloaded
+um at least the average values can be
+downloaded
+um a button for download all records is
+displayed on the pages for both
+unfiltered and filtered queries and then
+for the filtered queries there's also an
+option to download just the table view
+records so just the records that you
+have filtered down to as you've
+um played with it played with the
+filters
+so
+um that is our
+our soon to come new phenominer tool
+um if you are interested in seeing it uh
+if you want to stop me at lunch I can
+actually show you that the tool itself
+and and kind of give you a run through
+it's not out on the website yet but it
+will be very soon we're we're just doing
+final testing we wanted to make sure
+that we tested it really well before we
+sent it out into the wild
+um but it's it's coming soon and with
+that I will say thank you and I'd like
+to acknowledge the incredible team that
+we have of both scientists science
+scientific curators and Developers
+who produce all of this stuff
+um acknowledge our funders the national
+heart lung and Blood Institute and all
+of the researchers who contribute data
+and Faithfully use our website and our
+data and with that I will take questions
+thank you
+foreign
+blood pressure data I saw that there
+were two bars that had the exact same
+values and they were listed as the same
+con strain condition
+is it do individual Studies have their
+own representation how or how are you
+grouping things
+um
+to make things easier to see
+yes
+the I'm I'm
+trying to make sure that I that I speak
+correctly the
+if the if the values come from different
+studies they will show up as different
+measurements
+um
+yes
+and and one of the things that that
+you can see in the pop-up it's not quite
+as obvious in the graph is you could
+have
+[Music]
+um
+if if the if there was no no difference
+between uh an animal that was fasted an
+animal that wasn't fasted they might
+show up as the same with the same value
+but they would be two different bars
+because they have two different
+conditions
+so
+thank you
+so I have a question so
+and I recognize that this is probably
+beyond the scope of what you're doing
+but
+um there are no what I would commonly
+refer to I guess as phenotype calls so
+there's no stats or saying well this
+this or at under this condition has high
+blood pressure for example if we use
+your example there were you know bars of
+different heights so is the expectation
+then and you would need the individual
+data to do this but users would then be
+able to download the data and run their
+own statistical analyzes and things like
+that yes that's that's exactly the idea
+and we we do have
+um qualitative
+curation that goes along with this so in
+addition to the actual values
+um if if there was a study that was done
+and they found that this partic under
+these conditions this particular rat was
+hypertensive then we would have the
+qualitative
+um phenotype measurement that says that
+it it has increased blood pressure or
+its hypertension has hypertension or
+whatever
+in addition to the actual
+um
+specific values okay and so what what
+terms are you then using so those
+phenotype calls that I guess you're
+mining from the literature and so
+relying on the peer-reviewed data and
+yes to to make those calls
+are you using specific ontologies for
+those yes and are they cross mapped to
+say the mouse or human ontologies yes in
+any way okay yes great we use the we use
+the uh the mammalian phenotype ontology
+for for the Rex
+um and
+those are also met to the human
+phenotype ontology which um and we
+actually have data for human so you
+would in rgd you would be able to look
+across the across the orthologs and say
+you know rat has this phenotype Mouse
+has this phenotype human has that
+phenotype because they're not shared
+across the across the species but we
+have the data for for all of those
+species so you'd be able to just within
+rgd be able to compare all of them great
+thank you any other questions
+is there a plan to expand this so you
+know like the mouse site has gene
+expression and activity of
+pre-transgenic lines and things like
+that is that the future goal for this
+site as well yes absolutely
+um we're hoping now now that we're we're
+getting a little bit more usable
+interface for the Phoenix the
+quantitative
+phenotypes
+um we want to be able to uh add in
+genotype data so that you can connect
+the phenotype the specific phenotype and
+the genotype together and also the
+quantitative expression measurements and
+be able to to link you know phenotype
+expression and uh
+genotype
+uh be able to link all of those three
+together so yes that is that that's the
+plan
+hey well thank you so much like if you
+could join me in thanking all of the
+speakers from this morning
+and enjoy your lunch no
+no no oh wait
